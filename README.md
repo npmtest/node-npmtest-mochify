@@ -1,4 +1,7 @@
-# test coverage for  [mochify (v3.1.1)](https://github.com/mantoni/mochify.js)  [![npm package](https://img.shields.io/npm/v/npmtest-mochify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mochify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mochify.svg)](https://travis-ci.org/npmtest/node-npmtest-mochify)
+# npmtest-mochify
+
+#### test coverage for  [mochify (v3.1.1)](https://github.com/mantoni/mochify.js)  [![npm package](https://img.shields.io/npm/v/npmtest-mochify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mochify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mochify.svg)](https://travis-ci.org/npmtest/node-npmtest-mochify)
+
 #### TDD with Browserify, Mocha, PhantomJS and WebDriver
 
 [![NPM](https://nodei.co/npm/mochify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mochify)
