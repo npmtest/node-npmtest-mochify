@@ -1,6 +1,6 @@
 # npmtest-mochify
 
-#### test coverage for  [mochify (v3.1.1)](https://github.com/mantoni/mochify.js)  [![npm package](https://img.shields.io/npm/v/npmtest-mochify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mochify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mochify.svg)](https://travis-ci.org/npmtest/node-npmtest-mochify)
+#### basic test coverage for  [mochify (v3.1.1)](https://github.com/mantoni/mochify.js)  [![npm package](https://img.shields.io/npm/v/npmtest-mochify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mochify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mochify.svg)](https://travis-ci.org/npmtest/node-npmtest-mochify)
 
 #### TDD with Browserify, Mocha, PhantomJS and WebDriver
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-mochify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-mochify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-mochify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-mochify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mochify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mochify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-mochify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-mochify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-mochify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-mochify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-mochify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-mochify/build/coverage.html/index.html)
 
